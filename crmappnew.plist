@@ -11,7 +11,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://portal1.proya.com:10939/CrmCounterUploadFiles/APP/ios_proya.ipa</string>
+						<string>http://portal1.proya.com:9090/file/crmapp.ipa</string>
 					</dict>
 					<dict>
 						<key>kind</key>
